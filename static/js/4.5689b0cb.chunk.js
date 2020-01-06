@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{110:function(a,o,e){"use strict";e.r(o);var n={home:"Bienvenido a Ar2rex"},r={contacto:"Contacto",habilidades:"Habilidades",educacion:"Educaci\xf3n",experienciaLaboral:"Experiencia Laboral",idiomas:"Idiomas"},i={home:"Home",contacto:"Contacto",curriculum:"Curriculum",herramientas:"Heramientas",proyectos:"Proyectos"};e.d(o,"general",function(){return n}),e.d(o,"curriculum",function(){return r}),e.d(o,"Navbar",function(){return i})}}]);
+//# sourceMappingURL=4.5689b0cb.chunk.js.map

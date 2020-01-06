@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{111:function(n,e,o){"use strict";o.r(e);var r={home:"Bienvenido a Ar2rex"};o.d(e,"General",function(){return r})}}]);
+//# sourceMappingURL=3.dc757faa.chunk.js.map
